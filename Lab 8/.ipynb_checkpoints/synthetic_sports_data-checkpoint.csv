@@ -1,0 +1,451 @@
+Age,Training_Hours,Diet_Type,Previous_Wins,Win_Championship
+24,4,Balanced,11,Yes
+37,8,Low Carb,3,No
+32,7,Balanced,2,No
+28,2,High Protein,19,No
+25,1,Low Carb,11,Yes
+38,4,Balanced,6,Yes
+24,8,High Protein,10,No
+36,2,High Protein,0,No
+28,3,Balanced,5,No
+28,1,Balanced,14,No
+38,1,Balanced,14,No
+21,3,Low Carb,18,Yes
+25,5,Balanced,10,No
+20,3,High Protein,1,No
+39,1,High Protein,13,No
+38,1,High Protein,1,No
+19,8,Balanced,3,Yes
+29,2,High Protein,16,No
+23,3,Balanced,2,No
+19,2,Balanced,12,No
+38,3,Low Carb,8,No
+18,7,High Protein,6,No
+29,1,Low Carb,14,No
+39,8,High Protein,10,Yes
+29,2,Low Carb,19,No
+34,3,High Protein,1,Yes
+27,9,High Protein,14,Yes
+33,7,Balanced,13,No
+32,4,High Protein,19,No
+32,5,High Protein,10,No
+36,2,Balanced,2,Yes
+29,8,Balanced,16,No
+37,4,Balanced,11,Yes
+20,9,Balanced,14,Yes
+22,5,Balanced,15,No
+36,9,High Protein,4,Yes
+24,4,High Protein,19,No
+38,5,High Protein,5,Yes
+26,9,Low Carb,18,Yes
+24,8,Balanced,4,Yes
+35,3,Balanced,2,No
+21,1,Balanced,0,No
+31,3,Low Carb,5,No
+35,4,High Protein,14,No
+26,2,Balanced,1,No
+38,1,Balanced,2,Yes
+19,7,Balanced,16,No
+37,8,High Protein,11,No
+32,7,Low Carb,17,No
+24,5,Low Carb,14,No
+29,1,Balanced,11,No
+25,7,Balanced,15,No
+32,7,Low Carb,7,Yes
+20,9,Balanced,13,No
+31,3,High Protein,16,No
+34,9,Balanced,7,No
+21,1,Balanced,14,No
+35,1,Balanced,13,No
+25,4,Balanced,17,No
+21,9,Low Carb,19,No
+19,6,Low Carb,6,No
+23,3,Balanced,2,No
+39,1,High Protein,11,Yes
+27,4,Low Carb,2,No
+21,9,Low Carb,19,Yes
+39,3,High Protein,13,No
+35,9,Low Carb,14,No
+29,7,Low Carb,13,Yes
+19,4,Balanced,6,No
+27,3,Balanced,16,Yes
+21,5,High Protein,11,Yes
+31,5,High Protein,19,No
+33,3,High Protein,3,No
+32,9,Low Carb,8,No
+25,4,High Protein,5,No
+31,5,High Protein,15,No
+25,4,High Protein,1,No
+38,5,Balanced,7,Yes
+33,7,Low Carb,10,No
+30,9,High Protein,12,No
+35,7,High Protein,16,No
+32,5,Balanced,7,Yes
+38,7,Balanced,17,No
+30,5,High Protein,17,No
+26,3,Balanced,13,No
+32,7,High Protein,14,Yes
+30,2,High Protein,5,No
+18,9,Balanced,10,No
+24,1,Balanced,12,No
+26,6,Low Carb,0,No
+18,7,High Protein,5,Yes
+29,8,Balanced,8,No
+25,9,Balanced,7,Yes
+28,2,High Protein,10,No
+36,2,Balanced,18,No
+34,5,High Protein,8,Yes
+25,5,Low Carb,16,No
+20,6,High Protein,11,Yes
+20,3,Balanced,13,Yes
+18,8,High Protein,14,No
+22,1,Low Carb,15,No
+27,6,Balanced,19,No
+24,4,Balanced,0,No
+26,1,High Protein,9,Yes
+24,7,Balanced,7,Yes
+26,9,High Protein,17,Yes
+25,4,Low Carb,0,Yes
+29,4,High Protein,1,No
+19,6,High Protein,0,No
+18,3,High Protein,0,No
+33,6,Balanced,8,Yes
+22,7,Balanced,12,No
+20,3,High Protein,0,No
+29,7,Balanced,12,Yes
+25,3,Balanced,19,No
+39,2,Balanced,6,No
+20,4,Balanced,1,Yes
+18,8,Balanced,5,No
+20,9,Balanced,6,No
+22,7,High Protein,13,No
+32,1,High Protein,17,No
+31,3,Low Carb,14,No
+20,9,Low Carb,1,No
+18,1,High Protein,9,No
+22,9,High Protein,11,No
+31,8,Balanced,16,No
+24,1,Balanced,7,No
+26,6,High Protein,10,No
+32,5,High Protein,2,Yes
+32,6,Balanced,5,Yes
+27,5,Balanced,8,No
+30,6,High Protein,5,No
+36,5,High Protein,8,Yes
+24,5,High Protein,6,Yes
+34,4,Balanced,8,Yes
+37,3,High Protein,17,No
+21,3,High Protein,11,No
+22,4,Balanced,7,No
+24,9,High Protein,7,No
+30,2,Balanced,17,No
+32,9,High Protein,19,No
+28,1,High Protein,14,No
+21,1,High Protein,6,Yes
+30,5,Balanced,10,No
+24,6,Low Carb,19,No
+36,6,Low Carb,15,No
+39,3,High Protein,3,No
+19,7,Balanced,5,No
+27,9,High Protein,2,No
+30,8,High Protein,8,Yes
+38,6,Low Carb,9,No
+23,8,High Protein,13,No
+29,5,High Protein,10,Yes
+29,8,High Protein,17,Yes
+37,4,High Protein,11,No
+28,8,High Protein,11,Yes
+24,2,Balanced,12,No
+18,5,Balanced,12,No
+18,9,Low Carb,18,No
+37,4,Low Carb,18,Yes
+30,6,High Protein,13,No
+26,1,High Protein,3,Yes
+20,9,High Protein,12,Yes
+24,1,Balanced,7,No
+23,5,High Protein,18,No
+25,4,Balanced,11,No
+26,3,Balanced,17,No
+22,6,Balanced,5,Yes
+18,2,Balanced,17,Yes
+36,3,High Protein,18,No
+27,5,Low Carb,4,No
+29,9,Balanced,8,No
+32,2,High Protein,2,Yes
+39,8,Low Carb,9,No
+26,2,Balanced,18,Yes
+37,5,Low Carb,2,Yes
+34,7,Balanced,14,No
+34,8,Balanced,0,Yes
+37,1,High Protein,6,Yes
+29,6,High Protein,11,No
+24,1,Balanced,16,No
+19,2,Balanced,19,No
+20,1,High Protein,4,Yes
+34,5,High Protein,3,Yes
+22,9,Low Carb,11,Yes
+34,6,Low Carb,19,Yes
+34,1,Balanced,17,No
+34,1,High Protein,16,No
+19,2,High Protein,18,No
+19,9,High Protein,8,No
+39,3,Low Carb,3,No
+22,1,High Protein,1,No
+18,5,Balanced,3,No
+18,7,High Protein,1,No
+36,6,Balanced,14,No
+19,1,Balanced,1,Yes
+38,5,Low Carb,3,No
+29,5,High Protein,5,No
+23,6,High Protein,6,Yes
+21,3,High Protein,9,Yes
+28,5,Low Carb,18,No
+34,7,Low Carb,18,No
+23,5,Balanced,11,No
+22,5,Balanced,2,No
+37,5,Balanced,12,Yes
+19,3,High Protein,17,No
+23,1,Low Carb,7,No
+39,5,Balanced,14,No
+28,9,High Protein,0,No
+33,1,Balanced,2,Yes
+33,3,High Protein,7,Yes
+18,4,High Protein,3,Yes
+26,1,Balanced,15,No
+23,1,High Protein,9,Yes
+33,8,Balanced,11,No
+20,2,High Protein,13,No
+37,8,High Protein,13,Yes
+21,7,High Protein,1,Yes
+36,2,High Protein,4,Yes
+20,6,Balanced,4,No
+36,6,High Protein,5,Yes
+37,3,Balanced,12,No
+24,2,Balanced,8,No
+37,1,Balanced,14,No
+26,6,Low Carb,13,No
+18,5,Balanced,6,No
+25,9,High Protein,19,No
+24,1,High Protein,1,Yes
+35,7,High Protein,6,Yes
+25,5,Balanced,5,No
+18,5,High Protein,16,No
+28,2,Balanced,1,No
+35,3,Balanced,2,Yes
+27,7,High Protein,4,Yes
+20,6,Balanced,4,No
+24,2,High Protein,0,Yes
+33,6,High Protein,7,No
+33,2,Balanced,11,No
+37,2,Balanced,3,No
+34,2,Balanced,12,No
+19,3,Balanced,14,No
+18,2,High Protein,10,Yes
+33,4,Low Carb,9,No
+29,9,Balanced,2,No
+22,6,Balanced,13,No
+22,1,High Protein,15,Yes
+26,8,Balanced,9,No
+26,7,High Protein,9,No
+20,3,High Protein,11,Yes
+36,1,Low Carb,8,Yes
+33,5,High Protein,0,No
+33,4,Low Carb,4,No
+20,8,Balanced,19,No
+37,1,High Protein,7,Yes
+39,1,Balanced,10,Yes
+18,4,Low Carb,11,No
+37,8,Balanced,0,No
+28,5,Low Carb,19,No
+34,2,Balanced,10,No
+25,6,Balanced,4,No
+21,5,Low Carb,14,No
+23,2,High Protein,4,No
+25,3,Balanced,11,No
+37,9,High Protein,4,No
+20,7,Low Carb,16,No
+33,7,Low Carb,16,No
+20,6,High Protein,11,Yes
+35,8,Balanced,14,No
+31,4,Low Carb,14,Yes
+35,8,High Protein,5,No
+19,4,Balanced,11,No
+39,8,Low Carb,19,No
+20,9,High Protein,17,Yes
+33,3,Balanced,13,No
+26,3,High Protein,1,No
+21,2,Low Carb,8,Yes
+18,3,Low Carb,4,Yes
+21,3,Low Carb,19,Yes
+18,5,Balanced,0,Yes
+31,5,Low Carb,2,No
+38,2,Low Carb,5,No
+33,6,High Protein,4,No
+37,5,Low Carb,4,No
+25,6,High Protein,0,Yes
+24,1,Balanced,16,No
+20,5,High Protein,18,Yes
+34,9,High Protein,13,No
+18,2,High Protein,11,No
+33,1,Balanced,9,No
+29,9,High Protein,19,No
+36,9,Balanced,17,Yes
+39,9,High Protein,10,Yes
+39,6,High Protein,1,Yes
+31,8,Balanced,17,No
+23,1,Balanced,6,Yes
+23,4,High Protein,14,No
+30,1,Balanced,10,No
+36,8,Low Carb,17,No
+39,1,Balanced,11,Yes
+25,3,High Protein,5,Yes
+19,4,High Protein,19,No
+38,8,Low Carb,12,No
+18,6,High Protein,19,No
+32,7,Low Carb,15,Yes
+18,8,Balanced,17,No
+22,2,Low Carb,9,No
+33,8,Balanced,7,No
+36,3,Low Carb,17,No
+21,7,High Protein,0,Yes
+20,3,Balanced,7,No
+34,7,Balanced,5,No
+34,2,Balanced,4,Yes
+29,6,Balanced,14,No
+31,3,Low Carb,14,No
+38,3,Low Carb,1,No
+23,9,Balanced,0,Yes
+20,7,Balanced,10,Yes
+26,5,Balanced,9,No
+22,7,Balanced,17,No
+34,9,High Protein,17,Yes
+31,1,High Protein,16,No
+38,7,High Protein,7,No
+20,6,High Protein,14,Yes
+18,9,High Protein,7,No
+37,1,High Protein,16,Yes
+38,4,High Protein,11,No
+18,9,High Protein,7,No
+20,4,Low Carb,13,Yes
+35,3,Balanced,3,No
+27,9,High Protein,0,No
+39,2,Balanced,0,No
+20,4,High Protein,18,No
+25,6,Low Carb,15,No
+31,2,Balanced,13,Yes
+35,8,High Protein,15,Yes
+32,8,Balanced,4,Yes
+39,1,Low Carb,8,No
+19,3,Low Carb,1,No
+27,9,Balanced,17,No
+19,5,Balanced,5,Yes
+34,6,High Protein,8,No
+25,4,Low Carb,0,No
+18,2,High Protein,8,No
+26,8,Low Carb,15,No
+28,6,Balanced,12,Yes
+39,5,Balanced,8,Yes
+33,9,Balanced,12,No
+24,1,High Protein,8,No
+27,5,High Protein,10,No
+20,6,High Protein,3,No
+35,5,High Protein,1,No
+30,6,Balanced,5,No
+24,6,High Protein,13,No
+21,7,High Protein,3,No
+30,4,Low Carb,5,No
+37,8,Low Carb,18,No
+18,7,Low Carb,5,No
+25,9,Low Carb,1,No
+31,7,High Protein,17,No
+33,3,High Protein,12,Yes
+31,3,Balanced,8,No
+29,8,Balanced,18,No
+36,5,High Protein,12,No
+32,4,Low Carb,10,No
+19,8,High Protein,0,No
+19,6,High Protein,6,No
+39,2,Balanced,14,No
+36,4,Balanced,0,Yes
+39,4,Balanced,11,No
+39,6,High Protein,6,No
+34,6,Low Carb,14,No
+37,1,High Protein,18,Yes
+27,8,High Protein,0,Yes
+23,6,Low Carb,16,No
+32,3,Low Carb,16,Yes
+39,9,Low Carb,2,Yes
+28,2,Low Carb,11,Yes
+22,8,Balanced,5,Yes
+18,3,Balanced,10,Yes
+25,5,High Protein,2,No
+38,6,Balanced,7,No
+29,6,High Protein,13,No
+29,4,High Protein,13,No
+22,3,Balanced,9,No
+24,4,Balanced,1,Yes
+21,1,High Protein,13,Yes
+23,4,High Protein,8,No
+30,1,Balanced,2,Yes
+37,1,High Protein,7,No
+32,6,Low Carb,15,No
+20,5,Balanced,1,No
+25,4,Balanced,5,Yes
+37,3,Balanced,11,No
+33,1,Low Carb,4,No
+30,6,High Protein,1,Yes
+35,2,Balanced,15,No
+27,8,Balanced,4,No
+36,5,High Protein,14,No
+34,7,Low Carb,11,Yes
+36,2,Balanced,3,No
+22,8,Balanced,14,No
+38,2,Low Carb,10,No
+26,4,Low Carb,15,Yes
+29,1,Balanced,5,No
+38,5,Low Carb,13,Yes
+18,9,Balanced,17,No
+18,1,Balanced,11,Yes
+32,9,Balanced,10,No
+19,8,Balanced,12,No
+39,6,High Protein,10,No
+33,7,Low Carb,15,Yes
+25,3,Low Carb,14,Yes
+30,1,High Protein,14,No
+38,5,Low Carb,3,No
+18,2,High Protein,10,Yes
+33,5,High Protein,18,No
+24,8,Balanced,14,No
+22,9,High Protein,3,No
+39,2,Low Carb,12,No
+20,3,Low Carb,18,No
+29,3,Balanced,1,Yes
+33,1,High Protein,13,No
+36,8,High Protein,3,No
+22,6,Balanced,15,Yes
+39,8,Low Carb,19,No
+31,9,Balanced,13,No
+22,5,High Protein,14,No
+32,3,Balanced,2,No
+34,5,Balanced,7,No
+31,5,Balanced,15,No
+37,5,High Protein,9,Yes
+22,3,Balanced,3,No
+29,4,Balanced,17,Yes
+33,9,Low Carb,1,No
+33,9,High Protein,16,No
+38,2,Balanced,12,No
+24,8,Low Carb,3,No
+21,8,High Protein,10,No
+18,7,Low Carb,6,No
+22,8,Balanced,11,No
+27,3,High Protein,9,Yes
+39,6,High Protein,6,No
+22,1,Balanced,12,No
+21,7,High Protein,6,No
+19,1,Balanced,16,Yes
+37,9,High Protein,9,Yes
+27,1,Balanced,9,Yes
+36,1,High Protein,3,Yes
+18,7,Low Carb,19,No
+22,2,Low Carb,3,No
